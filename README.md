@@ -1,16 +1,5 @@
-### Hi there 👋
+<h1>Hi there, nice to see you! <img src="https://i.pinimg.com/originals/57/5a/20/575a20918d349a354cc636a0d49b35a0.gif" width="50"/></h1> 
 
-<!--
-**helmet323/helmet323** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on a object detection project.
-- 🌱 I’m currently learning about machine learning
-- 👯 I’m looking to collaborate on projects.
-- 🤔 I’m looking for help with creating projects.
-- 💬 Ask me about anything!
-- 📫 How to reach me: Email: su.tommy23@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I enjoy coding.
--->
+<p> Welcome to my page! </br>
+My name is Tommy. I'm currently studying computer science at University of Waterloo!! <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/University_of_Waterloo_seal.svg/1200px-University_of_Waterloo_seal.svg.png" width="20"/>
+</p>
