@@ -2,7 +2,7 @@
 
 I'm Tommy, CS student at University of Waterloo. 
 
-#### About me 😊
+### About me 😊
 
 * I love coding and building projects
 * I enjoy watching anime
