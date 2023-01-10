@@ -6,5 +6,5 @@ I'm Tommy, CS student at University of Waterloo.
 
 * I love coding and building projects
 * I enjoy watching anime
-* I'm always craving for a delicious bowl of Phở! <img src="pho.jpg" width="15"/>
+* I'm always craving for a delicious bowl of Phở! <img src="Pho.jpg" width="15"/>
 
