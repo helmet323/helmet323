@@ -15,6 +15,11 @@ My name is __Tommy__, and I am currently a first year student studying Computer 
 * I enjoy watching anime :computer:
 * I'm always craving for a delicious bowl of Phở! <img src="Pho.jpg" width="15"/>
 
+## Check out my projects!!
+
+<a href="https://play.google.com/store/apps/details?id=com.EcxLStudios.GrappleBallkour&pli=1"><img src="https://play-lh.googleusercontent.com/V9kVWRHoZ9Wq6bFMsvoxZ4PIx4aey1Cdeytk5jpXtJHyd6jjF49cQVQrSpgC-uL6gek" width="50"/></a> &nbsp;
+<a href="https://itch.io/jam/gmtk-2021/rate/1085534"><img src="https://img.itch.zone/aW1nLzYyMjA3NjgucG5n/315x250%23c/DBs26x.png" width="50" height="50"/></a>
+
 
 ## Languages and Tools:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -27,4 +32,5 @@ My name is __Tommy__, and I am currently a first year student studying Computer 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ## Connect with me:
-<a href="https://www.linkedin.com/in/tommy-su-7971a8225/"><img src="https://img.shields.io/badge/-Tommy%20Su-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/tommy-su-7971a8225/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="mailto: su.tommy23@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
