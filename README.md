@@ -1,8 +1,13 @@
+<div align="center"/> 
+
 # Hi there, nice to see you! <img src="Hi.gif" width="50"/>
 
-Welcome to my Github!
-
 My name is __Tommy__, and I am currently a first year student studying Computer Science at the University of Waterloo.
+
+<img src="https://w0.peakpx.com/wallpaper/156/172/HD-wallpaper-anime-scenery-sakura-art-anime-village-orginal-scenery.jpg" width="600"/>
+
+<div align="left"/> 
+
 
 ## About me :smiley:
 
@@ -18,7 +23,8 @@ My name is __Tommy__, and I am currently a first year student studying Computer 
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ## Connect with me:
 <a href="https://www.linkedin.com/in/tommy-su-7971a8225/"><img src="https://img.shields.io/badge/-Tommy%20Su-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
