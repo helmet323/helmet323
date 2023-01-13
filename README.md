@@ -18,7 +18,7 @@ My name is __Tommy__, and I am currently a first year student studying Computer 
 ## Check out my projects!!
 
 <a href="https://play.google.com/store/apps/details?id=com.EcxLStudios.GrappleBallkour&pli=1"><img src="https://play-lh.googleusercontent.com/V9kVWRHoZ9Wq6bFMsvoxZ4PIx4aey1Cdeytk5jpXtJHyd6jjF49cQVQrSpgC-uL6gek" width="50"/></a> &nbsp;
-<a href="https://itch.io/jam/gmtk-2021/rate/1085534"><img src="https://img.itch.zone/aW1nLzYyMjA3NjgucG5n/315x250%23c/DBs26x.png" width="50" height="50"/></a>
+<a href="https://itch.io/jam/gmtk-2021/rate/1085534"><img src="ConnectTheShot.png" width="50" height="50"/></a>
 
 
 ## Languages and Tools:
