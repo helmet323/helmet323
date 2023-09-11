@@ -4,7 +4,7 @@
 
 My name is __Tommy__, and I am currently a second year student studying Computer Science at the University of Waterloo. 
 
-You can check out all my projects <a href='https://tommy-personal-website.netlify.app/'>here</a>!
+You can check out my website <a href='https://tommy-personal-website.netlify.app/'>here</a>!
 
 <img src="https://w0.peakpx.com/wallpaper/156/172/HD-wallpaper-anime-scenery-sakura-art-anime-village-orginal-scenery.jpg" width="600"/>
 
